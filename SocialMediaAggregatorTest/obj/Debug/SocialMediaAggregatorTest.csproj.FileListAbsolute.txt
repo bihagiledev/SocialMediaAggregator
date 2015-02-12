@@ -1,0 +1,124 @@
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\obj\Debug\SocialMediaAggregatorTest.csprojResolveAssemblyReference.cache
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregatorTest.dll
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregatorTest.pdb
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\Facebook.dll
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\Facebook.xml
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\obj\Debug\SocialMediaAggregatorTest.dll
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\obj\Debug\SocialMediaAggregatorTest.pdb
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregator.exe
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregator.pdb
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregatorTest.dll.config
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Core.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\Autofac.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\PCLWebUtility.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Security.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\SocialMediaAggregatorTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregatorTest.dll.config
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregatorTest.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregatorTest.pdb
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Facebook.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregator.exe
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Core.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Autofac.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\PCLWebUtility.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Security.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregator.pdb
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Facebook.xml
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\obj\Debug\SocialMediaAggregatorTest.csprojResolveAssemblyReference.cache
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\obj\Debug\SocialMediaAggregatorTest.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregatorTest\obj\Debug\SocialMediaAggregatorTest.pdb
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregatorTest.dll.config
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregatorTest.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregatorTest.pdb
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Facebook.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregator.exe
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Core.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Credentials.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Autofac.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Controllers.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Factories.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Newtonsoft.Json.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Microsoft.Threading.Tasks.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Logic.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.WebLogic.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Streams.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\PCLWebUtility.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Security.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregator.pdb
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Facebook.xml
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\obj\Debug\SocialMediaAggregatorTest.csprojResolveAssemblyReference.cache
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\obj\Debug\SocialMediaAggregatorTest.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregatorTest\obj\Debug\SocialMediaAggregatorTest.pdb
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregatorTest.dll.config
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregatorTest.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregatorTest.pdb
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\Facebook.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregator.exe
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Core.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Credentials.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\Autofac.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Controllers.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Factories.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\Newtonsoft.Json.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\Microsoft.Threading.Tasks.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Logic.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.WebLogic.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Streams.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\PCLWebUtility.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Security.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregator.pdb
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\bin\Debug\Facebook.xml
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\obj\Debug\SocialMediaAggregatorTest.csprojResolveAssemblyReference.cache
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\obj\Debug\SocialMediaAggregatorTest.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregatorTest\obj\Debug\SocialMediaAggregatorTest.pdb
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregatorTest.dll.config
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregatorTest.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregatorTest.pdb
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Facebook.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Moq.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregator.exe
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Core.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Credentials.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Autofac.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Controllers.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Factories.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Newtonsoft.Json.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Microsoft.Threading.Tasks.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Logic.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.WebLogic.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Streams.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\PCLWebUtility.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Tweetinvi.Security.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\SocialMediaAggregator.pdb
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Facebook.xml
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Moq.pdb
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\Moq.xml
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\obj\Debug\SocialMediaAggregatorTest.csprojResolveAssemblyReference.cache
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\obj\Debug\SocialMediaAggregatorTest.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\obj\Debug\SocialMediaAggregatorTest.pdb
+F:\Github\SocialMediaAggregator\SocialMediaAggregatorTest\bin\Debug\resources\dummy_avatar.jpg

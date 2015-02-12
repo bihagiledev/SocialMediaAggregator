@@ -1,0 +1,138 @@
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Facebook.dll
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Facebook.xml
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\SocialMediaAggregator.csproj.GenerateResource.Cache
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SocialMediaAggregator.exe.config
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SocialMediaAggregator.exe
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SocialMediaAggregator.pdb
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\SocialMediaAggregator.Properties.Resources.resources
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\SocialMediaAggregator.exe
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\SocialMediaAggregator.pdb
+c:\users\gentiana\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\SocialMediaAggregator.Form1.resources
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Tweetinvi.Core.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Tweetinvi.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Autofac.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PCLWebUtility.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Tweetinvi.Security.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\SocialMediaAggregator.csprojResolveAssemblyReference.cache
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\SocialMediaAggregator.exe.config
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\SocialMediaAggregator.exe
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\SocialMediaAggregator.pdb
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Facebook.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Core.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Autofac.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\PCLWebUtility.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Security.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Facebook.xml
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.Form1.resources
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.Properties.Resources.resources
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.csproj.GenerateResource.Cache
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.exe
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.pdb
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.csprojResolveAssemblyReference.cache
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.Forms.MainForm.resources
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.Forms.SettingsForm.resources
+C:\Users\Gentiana\Documents\Visual Studio 2013\Projects\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.Forms.UserInfoForm.resources
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\SocialMediaAggregator.exe.config
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.exe
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.pdb
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\SocialMediaAggregator.exe
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\SocialMediaAggregator.pdb
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Facebook.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Microsoft.CSharp.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Newtonsoft.Json.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Controllers.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Core.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Credentials.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Autofac.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Factories.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Microsoft.Threading.Tasks.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Logic.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.WebLogic.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Streams.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\PCLWebUtility.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Security.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Facebook.xml
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.Forms.MainForm.resources
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.Forms.UserInfoForm.resources
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.Properties.Resources.resources
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.csproj.GenerateResource.Cache
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.Forms.PostForm.resources
+F:\Agile Development\Code\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.csprojResolveAssemblyReference.cache
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\SocialMediaAggregator.exe.config
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.exe
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.pdb
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\SocialMediaAggregator.exe
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\SocialMediaAggregator.pdb
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\Facebook.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\Microsoft.CSharp.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\Newtonsoft.Json.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\Tweetinvi.Controllers.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\Tweetinvi.Core.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\Tweetinvi.Credentials.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\Tweetinvi.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\Autofac.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\Tweetinvi.Factories.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\Microsoft.Threading.Tasks.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\Tweetinvi.Logic.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\Tweetinvi.WebLogic.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\Tweetinvi.Streams.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\PCLWebUtility.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\Tweetinvi.Security.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\bin\Debug\Facebook.xml
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.csprojResolveAssemblyReference.cache
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.Forms.PostForm.resources
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.Forms.MainForm.resources
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.Forms.UserInfoForm.resources
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.Properties.Resources.resources
+F:\Agile Development\Code\SocialMediaAggregatorStub\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.csproj.GenerateResource.Cache
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\SocialMediaAggregator.exe.config
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.exe
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.pdb
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\SocialMediaAggregator.exe
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\SocialMediaAggregator.pdb
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Facebook.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Microsoft.CSharp.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Newtonsoft.Json.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Controllers.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Core.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Credentials.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Autofac.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Factories.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Microsoft.Threading.Tasks.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Logic.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.WebLogic.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Streams.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\PCLWebUtility.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Tweetinvi.Security.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\bin\Debug\Facebook.xml
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.Forms.PostForm.resources
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.Forms.MainForm.resources
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.Forms.UserInfoForm.resources
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.Properties.Resources.resources
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.csproj.GenerateResource.Cache
+F:\Github\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.csprojResolveAssemblyReference.cache

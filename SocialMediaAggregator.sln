@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialMediaAggregator", "SocialMediaAggregator\SocialMediaAggregator.csproj", "{F3EFA010-637C-427E-AD15-424CF751FA2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialMediaAggregatorTest", "SocialMediaAggregatorTest\SocialMediaAggregatorTest.csproj", "{72AF1050-206D-4395-844D-EDCFDD10418D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3EFA010-637C-427E-AD15-424CF751FA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3EFA010-637C-427E-AD15-424CF751FA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3EFA010-637C-427E-AD15-424CF751FA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3EFA010-637C-427E-AD15-424CF751FA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72AF1050-206D-4395-844D-EDCFDD10418D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72AF1050-206D-4395-844D-EDCFDD10418D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72AF1050-206D-4395-844D-EDCFDD10418D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72AF1050-206D-4395-844D-EDCFDD10418D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
